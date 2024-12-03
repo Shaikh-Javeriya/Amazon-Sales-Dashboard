@@ -33,8 +33,8 @@ The goal of this project is to identify key metrics, trends, and actionable insi
 ***
 
 ## Contact
-For questions or feedback regarding this project, feel free to reach out:
 
-Email: [skjaveriya.11@gmail.com]
-LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
+For questions or feedback regarding this project, feel free to reach out:
+* Email: [skjaveriya.11@gmail.com]
+* LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
 
